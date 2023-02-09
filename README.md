@@ -1,4 +1,5 @@
 # devops-netology
+Изменение в ветке fix
 new line
 
 Благодаря добавленному файлу .gitignore в каталог Terraform будут проигнорированы файлы:
